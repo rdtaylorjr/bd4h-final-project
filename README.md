@@ -12,6 +12,7 @@ Paper Title:  Hongyi Yuan, Zheng Yuan, Sheng Yu (2022). Generative Biomedical En
 * Github Repo: https://github.com/rdtaylorjr/bd4h-final-project/
 * PowerPoint: https://docs.google.com/presentation/d/1AbrsOq3NLhLLklfPL2qzGAL6Fz-KaexL
 * Video Presentation: https://youtu.be/sc8sKQKG7nw
+* Large files including saved models and preprocessed data may be found at https://drive.google.com/drive/folders/1MWd_EDO5sur-kXpCrNu0e2QRSyXZGzvj
 
 ## To run our code:
 1. Copy the bd4h-team-a4.zip file from the Google Drive link above to your /content/gdrive/My Drive folder in your Google Drive account
