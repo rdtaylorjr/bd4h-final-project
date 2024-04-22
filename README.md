@@ -27,7 +27,7 @@ Paper Title:  Hongyi Yuan, Zheng Yuan, Sheng Yu (2022). Generative Biomedical En
 2. All the associated data and trained model are available in Google Drive: https://drive.google.com/drive/folders/1CPEDAJ2Kezx6U2zGQhlmVS3Je3cW8h1e?usp=drive_link
 3. Note the src folder consists of legacy code which has been integrated and updated in the notebook version. Results obtained using the src code files will not reflect latest results.
 4. The trained model is available in model_checkpoints. Pretrained model provided by the authors of original paper are available in the pre_train_model folder.
-5. Note: After downloading the folder, please change the path to different folders accordingly.
+5. Note: After downloading the folder from Google Drive, please change the path to different folders accordingly.
 6. The code has comments indicating where updates need to be made to run it for different test cases: prompt or no prompt, sample vs. no sample etc.
 
 ## IMPORTANT NOTE:
