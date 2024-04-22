@@ -10,10 +10,10 @@ Team Members:  Saptarshi Basu and Russell Taylor
 Paper Title:  Hongyi Yuan, Zheng Yuan, Sheng Yu (2022). Generative Biomedical Entity Linking via Knowledge Base-Guided Pre-Training and Synonyms-Aware Fine-Tuning. arXiv preprint arXiv:2204.05164.
 
 * Google Colab Notebook: https://colab.research.google.com/drive/1hsbZybymr4j3bDCroxS4Mh75DxAaFjNI
-* Google Drive Zip File: https://drive.google.com/file/d/1q9on0e7_b15JgpDH0FUfQbus6stpzI74
+* Google Drive Zip File: https://drive.google.com/file/d/1_5ZFT6EB-D8Jja1u0-TTQm00pRCM9ZGA
 * Github Repo: https://github.com/rdtaylorjr/bd4h-final-project/
 * PowerPoint: https://docs.google.com/presentation/d/1AbrsOq3NLhLLklfPL2qzGAL6Fz-KaexL
-* Video Presentation: https://youtu.be/sc8sKQKG7nw
+* Video Presentation: https://youtu.be/lx6eCb9ZiPk
 * Large files including saved models and preprocessed data may be found at https://drive.google.com/drive/folders/1MWd_EDO5sur-kXpCrNu0e2QRSyXZGzvj
 
 ## To run our code:
